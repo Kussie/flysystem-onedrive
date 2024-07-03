@@ -6,7 +6,7 @@ The adapter is ready for the latest Laravel 9.x version.
 
 You can use this package to access files stored in onedrive or sharepoint folders from your PHP or Laravel web applications.
 
-[![CI](https://github.com/doerffler/flysystem-onedrive/actions/workflows/code_checks.yaml/badge.svg?branch=main)](https://github.com/doerffler/flysystem-onedrive/actions/workflows/code_checks.yaml)
+[![CI](https://github.com/Kussie/flysystem-onedrive/actions/workflows/code_checks.yaml/badge.svg?branch=master)](https://github.com/Kussie/flysystem-onedrive/actions/workflows/code_checks.yaml)
 [![Latest Stable Version](http://poser.pugx.org/justus/flysystem-onedrive/v)](https://packagist.org/packages/justus/flysystem-onedrive)
 [![Total Downloads](http://poser.pugx.org/justus/flysystem-onedrive/downloads)](https://packagist.org/packages/justus/flysystem-onedrive)
 [![Latest Unstable Version](http://poser.pugx.org/justus/flysystem-onedrive/v/unstable)](https://packagist.org/packages/justus/flysystem-onedrive)
